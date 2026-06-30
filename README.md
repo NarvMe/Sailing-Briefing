@@ -10,6 +10,13 @@ Passwortgeschützte Törn-Briefing-App mit mehreren Revieren (Côte d'Azur, Dalm
 
 ## Release Notes
 
+### Version 4.11 — 30.06.2026
+- 🌬️ Bora- und Jugo-Indikatoren im Mistral-Style: Kompass mit Wind-Pfeil, Level-Badge, 7-Tage-Stunden-Zähler, Beginn-Zeit
+- 🎨 Einheitliche Farb-Skala (grün→gelb→orange→rot) für alle Wind-Indikatoren
+
+### Version 4.10 — 30.06.2026
+- 🛠️ Kroatien-Wetter funktioniert wieder (`ReferenceError: formatDay is not defined` behoben — `dayLabel` wird jetzt konsistent in beiden Regionen verwendet)
+
 ### Version 4.9 — 06.05.2026
 - 🛠️ Wochentag-Labels in Côte-d'Azur-Routen korrigiert (Tag-Bug aus Initialversion)
 
