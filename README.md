@@ -10,6 +10,11 @@ Passwortgeschützte Törn-Briefing-App mit mehreren Revieren (Côte d'Azur, Dalm
 
 ## Release Notes
 
+### Version 4.12 — 30.06.2026
+- 🗺️ 28 neue Pins in der Kroatien-Karte: Brač-Ostseite (Sutivan, Supetar, Splitska, Pučišća, Bol/Zlatni Rat), Hvar-Norden (Palmižana, Vrboska ACI, Jelsa, Sv. Nedjelja, Zavala), Vis (Vis Stadt, Stončica, Budikovac, Biševo/Blaue Grotte), Korčula (Vela Luka, Korčula Stadt ACI, Lumbarda), Pelješac (Orebić, Lovište), Mljet-Nationalpark (Polače, Pomena), Šolta (Rogač, Nečujam, Stomorska), Bora-Backup-Marinas (Frapa Rogoznica, Kremik Primošten, ACI Split, Marina Trogir)
+- 🏛️ Neue **Route D · Süden Kultur** — Korčula & Vis-Loop, ~144 NM, ohne Fussball-Constraints. Marco-Polo-Stadt Korčula, Palmižana-Bojen, Komiža-Sonnenuntergänge, Maslinica-Kastell
+- 📖 Basis: Küstenhandbuch Kroatien 2 (Berner/Delius Klasing) — Trogir–Dubrovnik
+
 ### Version 4.11 — 30.06.2026
 - 🌬️ Bora- und Jugo-Indikatoren im Mistral-Style: Kompass mit Wind-Pfeil, Level-Badge, 7-Tage-Stunden-Zähler, Beginn-Zeit
 - 🎨 Einheitliche Farb-Skala (grün→gelb→orange→rot) für alle Wind-Indikatoren
